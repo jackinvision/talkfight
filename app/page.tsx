@@ -130,7 +130,7 @@ export default function Home() {
         <div className="text-center space-y-2">
           <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 flex items-center justify-center gap-2">
             <MessageCircle className="h-8 w-8 sm:h-10 sm:w-10 text-wechat-green" />
-            吵架包赢
+            吵架不输神器
           </h1>
           <p className="text-gray-600 text-sm sm:text-base">输入对方的话，让AI帮你完美反击</p>
         </div>
